@@ -1,0 +1,20 @@
+# mac os hidden files
+**/.DS_Store
+
+*.log
+
+# generated files
+bin/
+gen/
+logs/
+log/
+target/
+
+# Eclipse project files
+.project
+.settings
+.classpath
+
+# IDEA project files
+.idea/
+**/*.iml
