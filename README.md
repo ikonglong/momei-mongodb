@@ -39,7 +39,7 @@ This test framework uses mongo scripts written in **javascript** language to pre
   }
   ```
 
-The function definition must be as follows:
+  The function definition must be as follows:
 
   ```javascript
   <prepare4_|cleanup4_>{test method name} = function() {
@@ -59,4 +59,4 @@ The function definition must be as follows:
   mongo.db=test
   ```
 
-  That's all!
+That's all!
